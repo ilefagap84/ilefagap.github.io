@@ -2006,6 +2006,11 @@ progress {
   border-radius: 0.5rem;
   transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
+
+#message {
+  
+}
+
 @media (prefers-reduced-motion: reduce) {
   .form-control {
     transition: none;
